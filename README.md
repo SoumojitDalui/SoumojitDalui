@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SoumojitDalui
+- 🧑‍💼 I'm currently working at LTIMindtree
 - 👀 I’m interested in Web Dev and Machine Learning
-- 🌱 I’m currently learning Angular, React, Some BackEnd, GraphQL and ML
-- 💞️ I’m looking to collaborate on Nothing ( This may change in future )
+- 🌱 I’m currently working on Angular, React and Some BackEnd
